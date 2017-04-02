@@ -1,4 +1,4 @@
-import Home from '@/app/screens/Home'
+import Home from 'App/screens/Home'
 
 const routes = [
   Home      // path: '/',

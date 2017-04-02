@@ -3,9 +3,9 @@ import Vue from 'vue'
 import { sync } from 'vuex-router-sync'
 
 // import libraries || importacion de bibliotecas
-import Root from '@/app/root'
-import router from '@/app/router'
-import store from '@/app/store'
+import router from './config/vue-router'
+import store from 'store'
+import Root from 'App/components/root'
 
 sync(store, router)
 
