@@ -1,4 +1,4 @@
-# Gerpack Vue Itcss
+# Gerpack Vue Itcss  ![Travis](https://img.shields.io/badge/vue->%3D2-brightgreen.svg) ![Travis](https://img.shields.io/badge/vuex->%3D2.0-brightgreen.svg) ![Travis](https://img.shields.io/badge/vueRouter->%3D2.0-brightgreen.svg) ![Travis](https://img.shields.io/badge/webpack->%3D2.0-blue.svg)
 
 > <strong>gerpack-vue-itcss</strong> is a modern Vue.js starter<br>
 > which uses Vue 2, Vuex, Vue-router and Webpack 2.
@@ -18,7 +18,9 @@
 
 ## Get Started
 
-You'd better have `node >=4` and `npm >=3` installed:
+You'd better have ![Travis](https://img.shields.io/badge/node->%3D4-brightgreen.svg) and ![Travis](https://img.shields.io/badge/npm->%3D3-brightgreen.svg) installed:
+
+
 
 ## vue-cli
 
