@@ -16,5 +16,5 @@
       "message": "Author"
     }
   },
-  "completeMessage": "To get started:\n\n  1- |cd {{ name }}\n  2- |npm install\n  3- |npm run dev
+  "completeMessage": "To get started:\n\n  1- cd {{ name }}\n  2- npm install\n  3- npm run dev
 }
