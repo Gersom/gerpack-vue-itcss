@@ -10,10 +10,22 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "sanitize.css": "^5.0.0",
     "vue": "^2.2.2",
     "vue-router": "^2.2.0",
     "vuex": "^2.2.1",
-    "vuex-router-sync": "^4.1.2"
+    "vuex-router-sync": "^4.1.2",
+    "wocss-settings-breakpoints": "^2.0.2",
+    "wocss-settings-colors": "^2.0.1",
+    "wocss-settings-defaults": "^1.0.3",
+    "wocss-settings-global": "^1.2.1",
+    "wocss-settings-spaces": "^2.0.0",
+    "wocss-settings-typography": "^2.0.0",
+    "wocss-tools-bem-constructor": "^1.0.4",
+    "wocss-tools-breakpoints": "^1.0.3",
+    "wocss-tools-mq": "^1.1.0",
+    "wocss-tools-resets": "^2.0.1",
+    "wocss-trumps-utilities": "^2.2.2"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",

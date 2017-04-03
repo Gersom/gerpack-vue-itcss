@@ -1,43 +1,16 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
-    <h2>Essential Links</h2>
-    <prueba></prueba>
+  <div class="HomeScreen u-text-center">
+    <vue-presentation></vue-presentation>
   </div>
 </template>
 
 <script>
-  import Prueba from 'components/Prueba'
+  import VuePresentation from 'App/shared/components/VuePresentation'
 
   export default {
     name: 'HomeScreen',
     components: {
-      Prueba
-    },
-    data () {
-      return {
-        msg: 'Welcome to Your Vue.js App'
-      }
+      VuePresentation
     }
   }
 </script>
-
-<style>
-  h1, h2 {
-    font-weight: normal;
-  }
-
-  ul {
-    list-style-type: none;
-    padding: 0;
-  }
-
-  li {
-    display: inline-block;
-    margin: 0 10px;
-  }
-
-  a {
-    color: #42b983;
-  }
-</style>
