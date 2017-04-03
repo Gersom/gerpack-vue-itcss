@@ -1,7 +1,6 @@
-<template>
-  <div class="HomeScreen u-text-center">
-    <vue-presentation></vue-presentation>
-  </div>
+<template lang="pug">
+  .HomeScreen(class="u-text-center")
+    vue-presentation()
 </template>
 
 <script>
