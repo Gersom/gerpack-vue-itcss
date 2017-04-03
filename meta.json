@@ -1,0 +1,20 @@
+{
+  "prompts": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "message": "Project name"
+    },
+    "description": {
+      "type": "string",
+      "required": false,
+      "message": "Project description",
+      "default": "My Superb Vue Project"
+    },
+    "author": {
+      "type": "string",
+      "message": "Author"
+    }
+  },
+  "completeMessage": "To get started:\n\n  1- |cd {{ name }}\n  2- |npm install\n  3- |npm run dev
+}
