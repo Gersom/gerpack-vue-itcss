@@ -1,4 +1,4 @@
-# Gerpack Vue Itcss  [![Travis](https://img.shields.io/badge/vue->%3D2-brightgreen.svg)](#) [![Travis](https://img.shields.io/badge/vuex->%3D2.0-brightgreen.svg)](#) [![Travis](https://img.shields.io/badge/vueRouter->%3D2.0-brightgreen.svg)](#) [![Travis](https://img.shields.io/badge/webpack->%3D2.0-blue.svg)](#)
+# Gerpack Vue Itcss  [![Travis](https://img.shields.io/badge/vue->%3D2-brightgreen.svg)](https://vuejs.org) [![Travis](https://img.shields.io/badge/vuex->%3D2.0-brightgreen.svg)](https://vuex.vuejs.org/en/) [![Travis](https://img.shields.io/badge/vueRouter->%3D2.0-brightgreen.svg)](https://router.vuejs.org/en/) [![Travis](https://img.shields.io/badge/webpack->%3D2.0-blue.svg)](https://webpack.js.org)
 
 > <strong>gerpack-vue-itcss</strong> is a modern Vue.js starter<br>
 > which uses Vue 2, Vuex, Vue-router and Webpack 2.
@@ -18,7 +18,7 @@
 
 ## Get Started
 
-You'd better have [![Travis](https://img.shields.io/badge/node->%3D4-brightgreen.svg)](#) and [![Travis](https://img.shields.io/badge/npm->%3D3-brightgreen.svg)](#) installed:
+You'd better have [![Travis](https://img.shields.io/badge/node->%3D4-brightgreen.svg)](#!) and [![Travis](https://img.shields.io/badge/npm->%3D3-brightgreen.svg)](#!) installed:
 
 
 
