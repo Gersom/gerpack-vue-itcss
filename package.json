@@ -1,7 +1,7 @@
 {
-  "name": "prueba-vue-cli",
-  "version": "1.0.0",
-  "description": "Pruebe vue cli",
+  "name": "gerpack-vue-itcss",
+  "version": "0.1.0",
+  "description": "Vue2 with Webpack2 and css with Itcss - Boilerplate",
   "author": "gersom <gersomalaja@gmail.com>",
   "private": true,
   "scripts": {
