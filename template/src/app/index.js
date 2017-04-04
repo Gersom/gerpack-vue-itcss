@@ -2,6 +2,10 @@
 import Vue from 'vue'
 import { sync } from 'vuex-router-sync'
 
+// register components || registro de componentes
+import registerComponents from './config/registerComponents'
+registerComponents(Vue)
+
 // import libraries || importacion de bibliotecas
 import router from './config/vue-router'
 import store from 'store'

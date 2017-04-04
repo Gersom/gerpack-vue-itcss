@@ -10,7 +10,10 @@
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
+    "axios": "^0.16.0",
+    "humps": "^2.0.0",
     "sanitize.css": "^5.0.0",
+    "toastr": "^2.1.2",
     "vue": "^2.2.2",
     "vue-router": "^2.2.0",
     "vuex": "^2.2.1",
