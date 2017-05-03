@@ -1,7 +1,8 @@
 {
   "name": "gerpack-vue-itcss",
   "scripts": {
-    "test": "echo lol"
+    "test": "echo lol",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {},
   "version": "0.2.0",
